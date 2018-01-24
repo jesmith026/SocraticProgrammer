@@ -37,5 +37,9 @@ namespace SOLIDCalculator.Loggers
         {
             MessageBox.Show(message);
         }
+
+        public double divide(double x, double y)
+        {
+        }
     }
 }
