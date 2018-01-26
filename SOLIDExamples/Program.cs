@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SOLIDExamples
 {
@@ -10,6 +6,13 @@ namespace SOLIDExamples
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("\nTesting the bad logger....\n");
+            BadLoggerTester.Test();
+
+            Console.WriteLine("\n\nTesting the good logger....\n");
+            GoodLoggerTester.Test();
+
+            Console.WriteLine();
         }
     }
 }

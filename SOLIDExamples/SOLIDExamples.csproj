@@ -42,6 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BadLoggerTester.cs" />
+    <Compile Include="GoodLoggerTester.cs" />
+    <Compile Include="Loggers\GoodLogger.cs" />
+    <Compile Include="Loggers\BadLogger.cs" />
+    <Compile Include="Loggers\ConsoleLogger.cs" />
+    <Compile Include="Loggers\DbLogger.cs" />
+    <Compile Include="Loggers\EventViewerLogger.cs" />
+    <Compile Include="Loggers\FileLogger.cs" />
+    <Compile Include="Loggers\IGoodLogger.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
