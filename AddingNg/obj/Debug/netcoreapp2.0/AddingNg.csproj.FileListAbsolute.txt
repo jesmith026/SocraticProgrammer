@@ -1,0 +1,11 @@
+D:\Dev\Repos\SocraticProgrammer\AddingNg\bin\Debug\netcoreapp2.0\AddingNg.deps.json
+D:\Dev\Repos\SocraticProgrammer\AddingNg\bin\Debug\netcoreapp2.0\AddingNg.runtimeconfig.json
+D:\Dev\Repos\SocraticProgrammer\AddingNg\bin\Debug\netcoreapp2.0\AddingNg.runtimeconfig.dev.json
+D:\Dev\Repos\SocraticProgrammer\AddingNg\bin\Debug\netcoreapp2.0\AddingNg.dll
+D:\Dev\Repos\SocraticProgrammer\AddingNg\bin\Debug\netcoreapp2.0\AddingNg.pdb
+D:\Dev\Repos\SocraticProgrammer\AddingNg\obj\Debug\netcoreapp2.0\AddingNg.csprojResolveAssemblyReference.cache
+D:\Dev\Repos\SocraticProgrammer\AddingNg\obj\Debug\netcoreapp2.0\AddingNg.csproj.CoreCompileInputs.cache
+D:\Dev\Repos\SocraticProgrammer\AddingNg\obj\Debug\netcoreapp2.0\AddingNg.AssemblyInfoInputs.cache
+D:\Dev\Repos\SocraticProgrammer\AddingNg\obj\Debug\netcoreapp2.0\AddingNg.AssemblyInfo.cs
+D:\Dev\Repos\SocraticProgrammer\AddingNg\obj\Debug\netcoreapp2.0\AddingNg.dll
+D:\Dev\Repos\SocraticProgrammer\AddingNg\obj\Debug\netcoreapp2.0\AddingNg.pdb
