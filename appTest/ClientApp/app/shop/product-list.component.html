@@ -1,0 +1,10 @@
+<div class="row">
+    <div class="productListHeader">Product List</div>
+    <ul class="productList">
+        <div class="row" *ngFor="let p of products">
+            <div class="productItem well productItem col-md-9">{{ p.title }}</div>
+            <div class="productItem well col-md-2 col-md-offset-1">{{ p.price | currency }}</div>
+        </div>
+        <!--<li class="well productItem" *ngFor="let p of products">{{ p.title }}: {{ p.price | currency }}</li>-->
+    </ul>
+</div>

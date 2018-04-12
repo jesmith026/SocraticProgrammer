@@ -1,0 +1,11 @@
+C:\TEMP\appTest\bin\Debug\netcoreapp2.0\appTest.deps.json
+C:\TEMP\appTest\bin\Debug\netcoreapp2.0\appTest.runtimeconfig.json
+C:\TEMP\appTest\bin\Debug\netcoreapp2.0\appTest.runtimeconfig.dev.json
+C:\TEMP\appTest\bin\Debug\netcoreapp2.0\appTest.dll
+C:\TEMP\appTest\bin\Debug\netcoreapp2.0\appTest.pdb
+C:\TEMP\appTest\obj\Debug\netcoreapp2.0\appTest.csprojResolveAssemblyReference.cache
+C:\TEMP\appTest\obj\Debug\netcoreapp2.0\appTest.csproj.CoreCompileInputs.cache
+C:\TEMP\appTest\obj\Debug\netcoreapp2.0\appTest.AssemblyInfoInputs.cache
+C:\TEMP\appTest\obj\Debug\netcoreapp2.0\appTest.AssemblyInfo.cs
+C:\TEMP\appTest\obj\Debug\netcoreapp2.0\appTest.dll
+C:\TEMP\appTest\obj\Debug\netcoreapp2.0\appTest.pdb

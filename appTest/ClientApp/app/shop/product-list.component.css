@@ -1,0 +1,16 @@
+﻿.productListHeader {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+ul.productList {
+    list-style-type: none;
+    font-size: medium;
+}
+
+.productList > .row > .productItem {
+    background-color: aliceblue;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: aliceblue;
+}
