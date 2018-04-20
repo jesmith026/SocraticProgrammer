@@ -21,10 +21,10 @@
         "styles.css"
       ],
       "scripts": [],
-      "environmentSource": "environments/environment.ts",
+      "environmentSource": "ClientApp/environments/environment.ts",
       "environments": {
-        "dev": "environments/environment.ts",
-        "prod": "environments/environment.prod.ts"
+        "dev": "ClientApp/environments/environment.ts",
+        "prod": "ClientApp/environments/environment.prod.ts"
       }
     }
   ],
@@ -35,11 +35,11 @@
   },
   "lint": [
     {
-      "project": "src/tsconfig.app.json",
+      "project": "ClientApp/tsconfig.app.json",
       "exclude": "**/node_modules/**"
     },
     {
-      "project": "src/tsconfig.spec.json",
+      "project": "ClientApp/tsconfig.spec.json",
       "exclude": "**/node_modules/**"
     },
     {
