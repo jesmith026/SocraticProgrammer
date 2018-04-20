@@ -1,7 +1,11 @@
 {
   "compileOnSave": false,
+  "include": [
+    "./wwwroot/ts",
+    "./ClientApp"
+  ],
   "compilerOptions": {
-    "outDir": "./wwwroot/Clientapp/out-tsc",
+    "outDir": "./wwwroot/Clientapp/dist",
     "sourceMap": true,
     "declaration": false,
     "moduleResolution": "node",
